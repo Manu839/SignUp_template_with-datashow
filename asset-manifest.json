@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SignUp_template_with-validations/static/css/main.8c688849.css",
-    "main.js": "/SignUp_template_with-validations/static/js/main.89102d23.js",
-    "static/js/787.d2a2b985.chunk.js": "/SignUp_template_with-validations/static/js/787.d2a2b985.chunk.js",
-    "index.html": "/SignUp_template_with-validations/index.html",
-    "main.8c688849.css.map": "/SignUp_template_with-validations/static/css/main.8c688849.css.map",
-    "main.89102d23.js.map": "/SignUp_template_with-validations/static/js/main.89102d23.js.map",
-    "787.d2a2b985.chunk.js.map": "/SignUp_template_with-validations/static/js/787.d2a2b985.chunk.js.map"
+    "main.css": "/SignUp_template_with-datashow/static/css/main.8c688849.css",
+    "main.js": "/SignUp_template_with-datashow/static/js/main.7e21f4fc.js",
+    "static/js/787.d2a2b985.chunk.js": "/SignUp_template_with-datashow/static/js/787.d2a2b985.chunk.js",
+    "index.html": "/SignUp_template_with-datashow/index.html",
+    "main.8c688849.css.map": "/SignUp_template_with-datashow/static/css/main.8c688849.css.map",
+    "main.7e21f4fc.js.map": "/SignUp_template_with-datashow/static/js/main.7e21f4fc.js.map",
+    "787.d2a2b985.chunk.js.map": "/SignUp_template_with-datashow/static/js/787.d2a2b985.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c688849.css",
-    "static/js/main.89102d23.js"
+    "static/js/main.7e21f4fc.js"
   ]
 }
